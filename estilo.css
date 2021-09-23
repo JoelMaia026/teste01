@@ -26,7 +26,21 @@ nav a:hover{border-bottom: 2px solid #ef4;transition: 0.2s;}
     background:rgb(0, 255, 234);
     display: flex;
     justify-content:space-between;
-    padding:5px 30px;
+    padding:5px 30px;;
 }
-.card{width:300px;text-align: center;margin: 5px;float:left}
+.card{width:300px;text-align: center;margin: 5px;float:left;}
 .card .icon{font-size:80px}
+.post {
+    margin-top: 300px;
+    background-color: #2f2f2f;
+    color: white;
+}
+.conteudos {margin-bottom: 10px;}
+.imagem {
+    background-color: #b6b6b6; width: 70%; height: 400px; margin: 0 auto;
+}
+.container3{
+    background-color: #dbd7d7;
+    margin-top: 50px;
+    padding: 98px;
+}
